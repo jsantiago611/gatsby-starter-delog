@@ -42,7 +42,7 @@ collections:
                 default: ''
                 required: false
   - name: blog
-    label: Blog
+    label: Prayers
     folder: _data/blog
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     create: true
